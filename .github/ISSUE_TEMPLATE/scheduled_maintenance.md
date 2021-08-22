@@ -1,6 +1,6 @@
 ---
 name: Scheduled maintenance
-about: Create a new scheduled maintenance. See configuration options in the [docs](https://upptime.js.org/docs/scheduled-maintenance/).
+about: 'Create a new scheduled maintenance. See configuration options in the <a href="https://upptime.js.org/docs/scheduled-maintenance">docs</a>.'
 title: ''
 labels: 'maintenance'
 
