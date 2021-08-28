@@ -78,9 +78,9 @@
     "url": "https://www.culture-me.dk",
     "icon": "https://favicons.githubusercontent.com/www.culture-me.dk",
     "slug": "culture-me",
-    "status": "up",
+    "status": "down",
     "uptime": "99.57%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.57%",
@@ -90,6 +90,7 @@
     "timeMonth": 1589,
     "timeYear": 1660,
     "dailyMinutesDown": {
+      "2021-08-28": 0,
       "2021-07-04": 544
     }
   }
