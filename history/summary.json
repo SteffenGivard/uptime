@@ -64,9 +64,9 @@
     "url": "64.52.163.78",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "sportsapp",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -75,7 +75,9 @@
     "timeWeek": 131,
     "timeMonth": 100,
     "timeYear": 93,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-09": 0
+    }
   },
   {
     "name": "Culture Me",
