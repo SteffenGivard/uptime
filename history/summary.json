@@ -66,19 +66,19 @@
     "url": "64.52.163.78",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "sportsapp",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "94.18%",
+    "uptimeWeek": "99.17%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.96%",
     "time": 94,
-    "timeDay": 216,
-    "timeWeek": 110,
-    "timeMonth": 103,
+    "timeDay": 180,
+    "timeWeek": 114,
+    "timeMonth": 104,
     "timeYear": 94,
     "dailyMinutesDown": {
-      "2021-10-18": 0
+      "2021-10-18": 84
     }
   },
   {
