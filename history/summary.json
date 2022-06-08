@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.98%",
-    "time": 739,
-    "timeDay": 523,
-    "timeWeek": 519,
-    "timeMonth": 576,
-    "timeYear": 738,
+    "time": 778,
+    "timeDay": 15872,
+    "timeWeek": 2701,
+    "timeMonth": 1009,
+    "timeYear": 777,
     "dailyMinutesDown": {
       "2022-05-26": 24,
       "2021-10-13": 62,
@@ -33,10 +33,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 833,
-    "timeDay": 859,
-    "timeWeek": 728,
-    "timeMonth": 763,
-    "timeYear": 832,
+    "timeDay": 582,
+    "timeWeek": 729,
+    "timeMonth": 752,
+    "timeYear": 831,
     "dailyMinutesDown": {
       "2021-10-13": 74,
       "2021-09-18": 19
@@ -54,13 +54,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 130,
-    "timeDay": 79,
-    "timeWeek": 127,
-    "timeMonth": 134,
+    "timeDay": 141,
+    "timeWeek": 124,
+    "timeMonth": 138,
     "timeYear": 129,
-    "dailyMinutesDown": {
-      "2021-06-08": 28
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Sportsapp",
@@ -74,9 +72,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 94,
-    "timeDay": 25,
+    "timeDay": 23,
     "timeWeek": 41,
-    "timeMonth": 63,
+    "timeMonth": 59,
     "timeYear": 94,
     "dailyMinutesDown": {
       "2021-10-22": 55,
@@ -94,11 +92,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
-    "time": 1596,
-    "timeDay": 1199,
-    "timeWeek": 1324,
-    "timeMonth": 1591,
-    "timeYear": 1594,
+    "time": 1595,
+    "timeDay": 1195,
+    "timeWeek": 1309,
+    "timeMonth": 1576,
+    "timeYear": 1592,
     "dailyMinutesDown": {
       "2021-10-20": 22,
       "2021-09-01": 22,
